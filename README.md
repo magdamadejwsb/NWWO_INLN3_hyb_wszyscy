@@ -7,4 +7,4 @@ Projekt do nauki Gita i GitHuba w ramach zajęć z przedmiotu **Narzędzia wspie
 - GitHub i GitHub Pages
 
 ## Uruchamianie
-Wystarczy przeglądarka, aby wyświetlić projekt z tego [linku]().
+Wystarczy przeglądarka, aby wyświetlić projekt z tego [linku](https://magdamadejwsb.github.io/NWWO_INLN3_hyb_wszyscy/).
